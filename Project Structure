@@ -1,0 +1,7 @@
+ChennaiMetroApp/
+│── app.py                # Main Flask app
+│── routes.py             # API Routes
+│── models.py             # Data Models (Mock Data)
+│── utils.py              # Utility functions (fare calculation, route planning)
+│── requirements.txt      # Dependencies
+│── README.md             # Documentation
